@@ -1,33 +1,5 @@
 
-> miles = c(65311, 65624, 65908, 66219, 66499, 66821, 67145, 67447)
-> x = diff(miles)
-> x
-[1] 313 284 311 280 322 324 302
-> max(x)
-[1] 324
-> min(x)
-[1] 280
-> save.image("E:\\Mtech3rdSem\\RM\\exercise 2.1")
-> 
-> avg(x)
-Error in avg(x) : could not find function "avg"
-> average(x)
-Error in average(x) : could not find function "average"
-> mean(x)
-[1] 305.1429
-> commutes =c(17,16, 20, 24, 22, 15, 21, 15, 17, 22)
-> commutes
- [1] 17 16 20 24 22 15 21 15 17 22
-> min(commutes)
-[1] 15
-> max(commutes)
-[1] 24
-> #change value
-> change value
-
-
 miles = c(65311, 65624, 65908, 66219, 66499, 66821, 67145, 67447)
-
 
 miles
 
